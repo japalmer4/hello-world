@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I am a cyclist
+I ride an ICE Trike
